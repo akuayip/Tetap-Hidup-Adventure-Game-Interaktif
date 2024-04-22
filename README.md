@@ -38,7 +38,7 @@ python main.py
 | Nama | NIM | 
 | ---- | --- | 
 | M. Arief Rahman Hakim | 122140083 | 
-| Muhammad Ghiffari Iskandar | 1221140189 | 
+| Muhammad Ghiffari Iskandar | 122140189 | 
 | Mulfi Hazwi Artaf | 122140186 | 
 | Muhammad Kaisar Teddy | 122140058 |
 | Zidan Raihan | 121140100 |
