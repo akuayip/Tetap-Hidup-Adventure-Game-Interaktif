@@ -1,9 +1,9 @@
 # Tetap-Hidup-Adventure-Game-Interaktif
 
 # Table of Contents
-[Description] coming soon
+[Description](#description)coming soon
 
-[Library]coming soon
+[Library](#library)coming soon
 
 [How to Play]coming soon
 
