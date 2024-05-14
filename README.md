@@ -12,7 +12,7 @@
 [Contributors](#contributors)
 
 ## Description
-Tetap Hidup Advanture Game adalah sebuah game yang bertujuan untuk mencari ramuan penyembuh penyakit keluarga tokoh utama atau player. Refrensi game ini adalah dari film Black Mirror yang memberikan player untuk dapat menentukan ending dari gamenya.
+Tetap Hidup Advanture Game adalah sebuah game yang bertujuan untuk mencari ramuan penyembuh penyakit keluarga tokoh utama atau player. Refrensi game ini adalah dari film Black Mirror yang memberikan kesempatan kepada player untuk dapat menentukan ending dari gamenya.
 
 ## Library
 pygame
