@@ -42,4 +42,4 @@ python main.py
 | Mulfi Hazwi Artaf | 122140186 | 
 | Muhammad Kaisar Teddy | 122140058 |
 | Zidan Raihan | 121140100 |
-| Zefanya Tarigan Danovanta | 122140101 |
+| Zefanya Danovanta Tarigan | 122140101 |
