@@ -1,0 +1,1 @@
+self.opening_message = show_opening_popup(self.display_surface)
