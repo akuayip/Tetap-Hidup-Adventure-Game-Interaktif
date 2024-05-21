@@ -30,7 +30,7 @@ alternative command:
 python main.py
 ```
 ## UML Diagram
-![Image_1]("https://github.com/akuayip/Tetap-Hidup-Adventure-Game-Interaktif/blob/main/UML_Diagram2.drawio.png")
+![Image_1](https://github.com/akuayip/Tetap-Hidup-Adventure-Game-Interaktif/blob/main/UML_Diagram2.drawio.png)
 
 
 ## Contributors
