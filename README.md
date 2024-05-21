@@ -1,5 +1,6 @@
 # Tetap-Hidup-Adventure-Game-Interaktif
 ![Image_1](/Tetap%20Hidup.jpeg)
+![Image_1](https://github.com/akuayip/Tetap-Hidup-Adventure-Game-Interaktif/blob/main/prototype.png)
 
 # Table of Contents
 [Description](#description)
@@ -19,7 +20,8 @@ Tetap Hidup Advanture Game adalah sebuah game yang bertujuan untuk mencari ramua
 
 ## Library
 pygame
-
+random randint
+math sin
 
 ## How to Play
 ![Image_2](https://github.com/akuayip/Tetap-Hidup-Adventure-Game-Interaktif/blob/main/htp.png)
