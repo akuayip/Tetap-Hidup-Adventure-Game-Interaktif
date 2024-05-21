@@ -20,6 +20,8 @@ pygame
 
 
 ## How to Play
+![Image_2](https://github.com/akuayip/Tetap-Hidup-Adventure-Game-Interaktif/blob/main/htp.png)
+
 <li> Install Python 3.6 or higher</li>
 Run the following command to start the game:
 
