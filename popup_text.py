@@ -48,3 +48,12 @@ def show_poison4(display_surface):
     ]
     show_text = Message(text_poison4, display_surface)
     show_text.run()
+
+def show_death(display_surface):
+    text_death = [
+        "Dalam pencarian putus asa untuk obat penyembuh...",
+        "pemuda berkelana menemui ajal di dalam hutan gelap...",
+        "Harapan penyelamatan bagi keluarganya pupus bersama dengan kepergiannya!!!"
+    ]
+    show_text = Message(text_death, display_surface)
+    show_text.run()

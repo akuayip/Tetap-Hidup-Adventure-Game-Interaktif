@@ -176,6 +176,7 @@ class Level:
         if self.player.vulnerable:
             self.player.health -= amount
             if self.player.health <= 0 :
+                message = show_death(self.display_surface)
                 pygame.QUIT()
             self.player.vulnerable = False
             self.player.hurt_time = pygame.time.get_ticks()
