@@ -36,7 +36,7 @@ python main.py
 
 ## Contributors
 
-| Nama | NIM | 
+| Nama | NIM |
 | ---- | --- | 
 | M. Arief Rahman Hakim | 122140083 | 
 | Muhammad Ghiffari Iskandar | 122140189 | 
