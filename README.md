@@ -19,8 +19,8 @@
 Tetap Hidup Advanture Game adalah sebuah game yang bertujuan untuk mencari ramuan penyembuh penyakit keluarga tokoh utama atau player. Refrensi game ini adalah dari film Black Mirror yang memberikan kesempatan kepada player untuk dapat menentukan ending dari gamenya.
 
 ## Library
-pygame
-random randint
+pygame,
+random randint,
 math sin
 
 ## How to Play
@@ -38,7 +38,7 @@ alternative command:
 python main.py
 ```
 ## UML Diagram
-![Image_2](https://github.com/akuayip/Tetap-Hidup-Adventure-Game-Interaktif/blob/main/UML_Diagram.png)
+![Image_3](https://github.com/akuayip/Tetap-Hidup-Adventure-Game-Interaktif/blob/main/UML_Diagram.png)
 
 
 ## Contributors
@@ -54,3 +54,6 @@ python main.py
 
 
 ## References
+
+## OUR PROGRES
+<p><img align="center" src="https://www.notion.so/8803098e9d054a71bcb21d9f92df93c6?v=045fc9e8bd7648659568bf66cc923307" alt="progres" /></p>
