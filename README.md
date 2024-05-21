@@ -15,6 +15,8 @@
 
 [References](cooming soon)
 
+[INTIP PROGRES](#ourprogres)
+
 ## Description
 Tetap Hidup Advanture Game adalah sebuah game yang bertujuan untuk mencari ramuan penyembuh penyakit keluarga tokoh utama atau player. Refrensi game ini adalah dari film Black Mirror yang memberikan kesempatan kepada player untuk dapat menentukan ending dari gamenya.
 
@@ -54,6 +56,8 @@ python main.py
 
 
 ## References
+coomign soon
+
 
 ## OUR PROGRES
-<p><img align="center" src="https://www.notion.so/8803098e9d054a71bcb21d9f92df93c6?v=045fc9e8bd7648659568bf66cc923307" alt="progres" /></p>
+![Image_4](https://www.notion.so/8803098e9d054a71bcb21d9f92df93c6?v=045fc9e8bd7648659568bf66cc923307)
