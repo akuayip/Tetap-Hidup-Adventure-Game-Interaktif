@@ -1,4 +1,5 @@
 # Tetap-Hidup-Adventure-Game-Interaktif
+![Image_1](/Tetap%20Hidup.jpeg)
 
 # Table of Contents
 [Description](#description)
@@ -30,7 +31,7 @@ alternative command:
 python main.py
 ```
 ## UML Diagram
-![Image_1](https://github.com/akuayip/Tetap-Hidup-Adventure-Game-Interaktif/blob/main/UML_Diagram.png)
+![Image_2](https://github.com/akuayip/Tetap-Hidup-Adventure-Game-Interaktif/blob/main/UML_Diagram.png)
 
 
 ## Contributors
