@@ -56,8 +56,8 @@ python main.py
 
 
 ## References
-coomign soon
+cooming soon
 
 
 ## OUR PROGRES
-![Image_4](https://github.com/akuayip/Tetap-Hidup-Adventure-Game-Interaktif/blob/main/PROGRES%20PEMBUATAN%20GAME%208803098e9d054a71bcb21d9f92df93c6.html)
+cooming soon
