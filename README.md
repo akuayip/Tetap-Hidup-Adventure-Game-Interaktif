@@ -30,8 +30,7 @@ alternative command:
 python main.py
 ```
 ## UML Diagram
--Coming Soon-
-![Image_1]("UML_Diagram2.drawio.png")
+![Image_1]("https://drive.google.com/file/d/1XB8aPOZzoI17Hs2C66Cn57wXRzLdzHlc/view?usp=sharing")
 
 
 ## Contributors
