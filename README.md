@@ -41,14 +41,14 @@ python main.py
 
 ## Contributors
 
-| Nama | NIM |
-| ---- | --- | 
-| M. Arief Rahman Hakim | 122140083 | 
-| Muhammad Ghiffari Iskandar | 122140189 | 
-| Mulfi Hazwi Artaf | 122140186 | 
-| Muhammad Kaisar Teddy | 122140058 |
-| Zidan Raihan | 121140100 |
-| Zefanya Danovanta Tarigan | 122140101 |
+| Nama | NIM | Contributor |
+| ---- | --- | --- |
+| M. Arief Rahman Hakim | 122140083 | Programmer |
+| Muhammad Ghiffari Iskandar | 122140189 | Designer |
+| Mulfi Hazwi Artaf | 122140186 | Designer |
+| Muhammad Kaisar Teddy | 122140058 | Map Designer |
+| Zidan Raihan | 121140100 | Programmer | 
+| Zefanya Danovanta Tarigan | 122140101 | Map Designer |
 
 
 ## References
