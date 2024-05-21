@@ -175,6 +175,8 @@ class Level:
     def damage_player(self, amount, attack_type):
         if self.player.vulnerable:
             self.player.health -= amount
+            if self.player.health <= 0 :
+                pygame.QUIT()
             self.player.vulnerable = False
             self.player.hurt_time = pygame.time.get_ticks()
             self.animation_player.create_particles(attack_type, self.player.rect.center, [self.visible_sprites])
