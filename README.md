@@ -12,6 +12,8 @@
 
 [Contributors](#contributors)
 
+[References](cooming soon)
+
 ## Description
 Tetap Hidup Advanture Game adalah sebuah game yang bertujuan untuk mencari ramuan penyembuh penyakit keluarga tokoh utama atau player. Refrensi game ini adalah dari film Black Mirror yang memberikan kesempatan kepada player untuk dapat menentukan ending dari gamenya.
 
@@ -47,3 +49,6 @@ python main.py
 | Muhammad Kaisar Teddy | 122140058 |
 | Zidan Raihan | 121140100 |
 | Zefanya Danovanta Tarigan | 122140101 |
+
+
+## References
