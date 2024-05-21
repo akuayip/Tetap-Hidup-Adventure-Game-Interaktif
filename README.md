@@ -6,9 +6,9 @@
 
 [Library](#library)
 
-[How to Play]coming soon
+[How to Play](coming soon)
 
-[UML Diagram] coming soon
+[UML Diagram](#UMLDiagram)
 
 [Contributors](#contributors)
 
@@ -17,6 +17,7 @@ Tetap Hidup Advanture Game adalah sebuah game yang bertujuan untuk mencari ramua
 
 ## Library
 pygame
+
 
 ## How to Play
 <li> Install Python 3.6 or higher</li>

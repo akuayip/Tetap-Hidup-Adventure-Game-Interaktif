@@ -119,7 +119,7 @@ class Game:
                         hovered_button = None
 
     def show_credits_screen(self):
-        credits_font = pygame.font.SysFont('Arial', 40)
+        credits_font = pygame.font.SysFont('pixellari', 40)
         credits_lines = [
             "Credits:",
             "M. Arief Rahman Hakim 122140083",
