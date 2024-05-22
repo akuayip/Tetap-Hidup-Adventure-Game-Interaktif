@@ -1,6 +1,7 @@
-# Tetap-Hidup-Adventure-Game-Interaktif
-![Image_1](/Tetap%20Hidup.jpeg)
-![Image_1](https://github.com/akuayip/Tetap-Hidup-Adventure-Game-Interaktif/blob/main/prototype.png)
+<h1 align="center">Tetap Hidup Advanture</h1>
+
+![Image_1](graphics/readme/Tetap%20Hidup.jpeg)
+![Image_1](graphics/readme/prototype.png)
 
 # Table of Contents
 [Description](#description)
@@ -13,20 +14,17 @@
 
 [Contributors](#contributors)
 
-[References](cooming soon)
-
-[INTIP PROGRES](#ourprogres)
+[Thanks To](#thanks-to)
 
 ## Description
-Tetap Hidup Advanture Game adalah sebuah game yang bertujuan untuk mencari ramuan penyembuh penyakit keluarga tokoh utama atau player. Refrensi game ini adalah dari film Black Mirror yang memberikan kesempatan kepada player untuk dapat menentukan ending dari gamenya.
-
+**Tetap Hidup Adventure Game** is an adventure game with the goal of finding a miraculous potion that can cure the illness of the main character's family. The concept of this game is inspired by the film Black Mirror, where the player becomes an integral part of determining the course of the story. In this game, players are given the opportunity to decide the ending of the game.
 ## Library
-pygame,
-random randint,
-math sin
+- [**pygame**](https://www.python.org/)
+- [**random**](https://docs.python.org/3/library/random.html)
+- [**math**](https://docs.python.org/3/library/math.html)
 
 ## How to Play
-![Image_2](https://github.com/akuayip/Tetap-Hidup-Adventure-Game-Interaktif/blob/main/htp.png)
+![Image_2](graphics/readme/htp.png)
 
 <li> Install Python 3.11 or higher</li>
 Run the following command to start the game:
@@ -40,7 +38,7 @@ alternative command:
 python main.py
 ```
 ## UML Diagram
-![Image_3](https://github.com/akuayip/Tetap-Hidup-Adventure-Game-Interaktif/blob/main/UML_Diagram.png)
+![Image_3](graphics/readme/UML_Diagram.png)
 
 
 ## Contributors
@@ -55,9 +53,10 @@ python main.py
 | Zefanya Danovanta Tarigan | 122140101 | Programmer, Map Designer |
 
 
-## References
-cooming soon
+## Thanks To
+- [Freepik](freepik.com )
+- [Freesound](freesound.org)
+- [Clear Code](https://www.youtube.com/@ClearCode)
+- [Coding With Rush](https://www.youtube.com/@CodingWithRuss)
 
 
-## OUR PROGRES
-cooming soon
