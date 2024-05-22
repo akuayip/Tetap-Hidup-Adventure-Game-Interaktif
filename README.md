@@ -47,12 +47,12 @@ python main.py
 
 | Nama | NIM | Contributor |
 | ---- | --- | --- |
-| M. Arief Rahman Hakim | 122140083 | Programmer |
-| Muhammad Ghiffari Iskandar | 122140189 | Designer |
-| Mulfi Hazwi Artaf | 122140186 | Designer |
-| Muhammad Kaisar Teddy | 122140058 | Map Designer |
-| Zidan Raihan | 121140100 | Programmer | 
-| Zefanya Danovanta Tarigan | 122140101 | Map Designer |
+| M. Arief Rahman Hakim | 122140083 | Lead Programmer, Map Designer |
+| Muhammad Ghiffari Iskandar | 122140189 | Lead Designer, Programmer |
+| Mulfi Hazwi Artaf | 122140186 | Programmper, Designer |
+| Muhammad Kaisar Teddy | 122140058 | Programmer, Map Designer |
+| Zidan Raihan | 121140100 | Programmer, Map Designer | 
+| Zefanya Danovanta Tarigan | 122140101 | Programmer, Map Designer |
 
 
 ## References
