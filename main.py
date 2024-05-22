@@ -13,7 +13,7 @@ class Game:
         self.level = Level()
 
         # load start screen background
-        self.start_bg = pygame.image.load('menu_utama.png').convert()
+        self.start_bg = pygame.image.load('graphics/readme/menu_utama.png').convert()
 
         # load button
         self.button_start = pygame.image.load('graphics/button/button_start.png').convert_alpha()

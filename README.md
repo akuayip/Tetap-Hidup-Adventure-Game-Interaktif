@@ -1,6 +1,6 @@
 <h1 align="center">Tetap Hidup Advanture</h1>
 
-![Image_1](graphics/readme/Tetap%20Hidup.jpeg)
+![Image_1](graphics/readme/menu_utama.png)
 ![Image_1](graphics/readme/prototype.png)
 
 # Table of Contents
